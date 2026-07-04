@@ -1,6 +1,4 @@
-# Intervue
-
-## Interview Transcript Summarizer
+# Interview Transcript Summarizer
 
 A simple LLM-based tool that takes an interview transcript as input and generates a structured hiring summary.
 
